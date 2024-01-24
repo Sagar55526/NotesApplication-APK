@@ -21,7 +21,7 @@ Welcome to your own diary, a note-taking application built with .NET MAUI. This 
 git clone https://github.com/Sagar55526/NotesApplication-APK.git
 
 # Navigate to the project directory
-cd NotesApplication.sln
+cd NotesApplication
 
 # Build and run the application
 dotnet maui run
